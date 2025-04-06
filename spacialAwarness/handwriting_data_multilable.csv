@@ -1,0 +1,250 @@
+id,image_path,label,spacebtw_words_crowded,spacebtw_words_loose,spacebtw_letters_crowded,spacebtw_letters_loose,baseline_floating,baseline_sinking,inconsistant_letters
+1,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (1).jpg,correct,0,0,0,0,0,0,0
+2,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (2).jpg,correct,0,0,0,0,0,0,0
+3,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (3).jpg,correct,0,0,0,0,0,0,0
+4,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (4).jpg,correct,0,0,0,0,0,0,0
+5,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (5).jpg,correct,0,0,0,0,0,0,0
+6,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (6).jpg,correct,0,0,0,0,0,0,0
+7,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (7).jpg,correct,0,0,0,0,0,0,0
+8,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (8).jpg,correct,0,0,0,0,0,0,0
+9,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (9).jpg,correct,0,0,0,0,0,0,0
+10,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (10).jpg,correct,0,0,0,0,0,0,0
+11,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (11).jpg,correct,0,0,0,0,0,0,0
+12,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (12).jpg,correct,0,0,0,0,0,0,0
+13,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (13).jpg,correct,0,0,0,0,0,0,0
+14,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (14).jpg,correct,0,0,0,0,0,0,0
+15,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (15).jpg,correct,0,0,0,0,0,0,0
+16,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (16).jpg,correct,0,0,0,0,0,0,0
+17,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (17).jpg,correct,0,0,0,0,0,0,0
+18,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (18).jpg,correct,0,0,0,0,0,0,0
+19,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (19).jpg,correct,0,0,0,0,0,0,0
+20,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (20).jpg,correct,0,0,0,0,0,0,0
+21,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (21).jpg,correct,0,0,0,0,0,0,0
+22,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (22).jpg,correct,0,0,0,0,0,0,0
+23,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (23).jpg,correct,0,0,0,0,0,0,0
+24,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (24).jpg,correct,0,0,0,0,0,0,0
+25,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (25).jpg,correct,0,0,0,0,0,0,0
+26,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (26).jpg,correct,0,0,0,0,0,0,0
+27,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (27).jpg,correct,0,0,0,0,0,0,0
+28,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (28).jpg,correct,0,0,0,0,0,0,0
+29,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (29).jpg,correct,0,0,0,0,0,0,0
+30,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (30).jpg,correct,0,0,0,0,0,0,0
+31,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (31).jpg,correct,0,0,0,0,0,0,0
+32,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (32).jpg,correct,0,0,0,0,0,0,0
+33,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (33).jpg,correct,0,0,0,0,0,0,0
+34,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (34).jpg,correct,0,0,0,0,0,0,0
+35,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (35).jpg,correct,0,0,0,0,0,0,0
+36,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (36).jpg,correct,0,0,0,0,0,0,0
+37,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (37).jpg,correct,0,0,0,0,0,0,0
+38,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (38).jpg,correct,0,0,0,0,0,0,0
+39,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (39).jpg,correct,0,0,0,0,0,0,0
+40,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (40).jpg,correct,0,0,0,0,0,0,0
+41,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (41).jpg,correct,0,0,0,0,0,0,0
+42,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (42).jpg,correct,0,0,0,0,0,0,0
+43,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (43).jpg,correct,0,0,0,0,0,0,0
+44,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (44).jpg,correct,0,0,0,0,0,0,0
+45,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (45).jpg,correct,0,0,0,0,0,0,0
+46,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (46).jpg,correct,0,0,0,0,0,0,0
+47,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (47).jpg,correct,0,0,0,0,0,0,0
+48,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (48).jpg,correct,0,0,0,0,0,0,0
+49,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (49).jpg,correct,0,0,0,0,0,0,0
+50,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (50).jpg,correct,0,0,0,0,0,0,0
+51,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (51).jpg,correct,0,0,0,0,0,0,0
+52,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (52).jpg,correct,0,0,0,0,0,0,0
+53,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (53).jpg,correct,0,0,0,0,0,0,0
+54,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (54).jpg,correct,0,0,0,0,0,0,0
+55,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (55).jpg,correct,0,0,0,0,0,0,0
+56,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (56).jpg,correct,0,0,0,0,0,0,0
+57,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (57).jpg,correct,0,0,0,0,0,0,0
+58,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (58).jpg,correct,0,0,0,0,0,0,0
+59,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (59).jpg,correct,0,0,0,0,0,0,0
+60,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (60).jpg,correct,0,0,0,0,0,0,0
+61,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (61).jpg,correct,0,0,0,0,0,0,0
+62,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (62).jpg,correct,0,0,0,0,0,0,0
+63,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (63).jpg,correct,0,0,0,0,0,0,0
+64,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (64).jpg,correct,0,0,0,0,0,0,0
+65,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (65).jpg,correct,0,0,0,0,0,0,0
+66,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (66).jpg,correct,0,0,0,0,0,0,0
+67,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (67).jpg,correct,0,0,0,0,0,0,0
+68,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (68).jpg,correct,0,0,0,0,0,0,0
+69,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (69).jpg,correct,0,0,0,0,0,0,0
+70,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (70).jpg,correct,0,0,0,0,0,0,0
+71,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (71).jpg,correct,0,0,0,0,0,0,0
+72,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (72).jpg,correct,0,0,0,0,0,0,0
+73,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (73).jpg,correct,0,0,0,0,0,0,0
+74,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (74).jpg,correct,0,0,0,0,0,0,0
+75,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (75).jpg,correct,0,0,0,0,0,0,0
+76,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (76).jpg,correct,0,0,0,0,0,0,0
+77,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (77).jpg,correct,0,0,0,0,0,0,0
+78,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (78).jpg,correct,0,0,0,0,0,0,0
+79,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (79).jpg,correct,0,0,0,0,0,0,0
+80,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (80).jpg,correct,0,0,0,0,0,0,0
+81,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (81).jpg,correct,0,0,0,0,0,0,0
+82,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (82).jpg,correct,0,0,0,0,0,0,0
+83,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (83).jpg,correct,0,0,0,0,0,0,0
+84,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (84).jpg,correct,0,0,0,0,0,0,0
+85,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (85).jpg,correct,0,0,0,0,0,0,0
+86,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (86).jpg,correct,0,0,0,0,0,0,0
+87,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (87).jpg,correct,0,0,0,0,0,0,0
+88,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (88).jpg,correct,0,0,0,0,0,0,0
+89,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (89).jpg,correct,0,0,0,0,0,0,0
+90,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (90).jpg,correct,0,0,0,0,0,0,0
+91,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (91).jpg,correct,0,0,0,0,0,0,0
+92,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (92).jpg,correct,0,0,0,0,0,0,0
+93,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (93).jpg,correct,0,0,0,0,0,0,0
+94,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (94).jpg,correct,0,0,0,0,0,0,0
+95,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (95).jpg,correct,0,0,0,0,0,0,0
+96,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (96).jpg,correct,0,0,0,0,0,0,0
+97,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (97).jpg,correct,0,0,0,0,0,0,0
+98,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (98).jpg,correct,0,0,0,0,0,0,0
+99,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (99).jpg,correct,0,0,0,0,0,0,0
+100,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (100).jpg,correct,0,0,0,0,0,0,0
+101,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (101).jpg,correct,0,0,0,0,0,0,0
+102,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (102).jpg,correct,0,0,0,0,0,0,0
+103,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (103).jpg,correct,0,0,0,0,0,0,0
+104,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (104).jpg,correct,0,0,0,0,0,0,0
+105,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (105).jpg,correct,0,0,0,0,0,0,0
+106,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (106).jpg,correct,0,0,0,0,0,0,0
+107,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (107).jpg,correct,0,0,0,0,0,0,0
+108,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (108).jpg,correct,0,0,0,0,0,0,0
+109,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (109).jpg,correct,0,0,0,0,0,0,0
+110,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (110).jpg,correct,0,0,0,0,0,0,0
+111,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (111).jpg,correct,0,0,0,0,0,0,0
+112,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (112).jpg,correct,0,0,0,0,0,0,0
+113,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (113).jpg,correct,0,0,0,0,0,0,0
+114,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (114).jpg,correct,0,0,0,0,0,0,0
+115,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (115).jpg,correct,0,0,0,0,0,0,0
+116,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (116).jpg,correct,0,0,0,0,0,0,0
+117,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (117).jpg,correct,0,0,0,0,0,0,0
+118,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (118).jpg,correct,0,0,0,0,0,0,0
+119,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (119).jpg,correct,0,0,0,0,0,0,0
+120,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (120).jpg,correct,0,0,0,0,0,0,0
+121,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (121).jpg,correct,0,0,0,0,0,0,0
+122,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (122).jpg,correct,0,0,0,0,0,0,0
+123,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (123).jpg,correct,0,0,0,0,0,0,0
+124,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (124).jpg,correct,0,0,0,0,0,0,0
+125,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (125).jpg,correct,0,0,0,0,0,0,0
+126,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (126).jpg,correct,0,0,0,0,0,0,0
+127,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (127).jpg,correct,0,0,0,0,0,0,0
+128,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (128).jpg,correct,0,0,0,0,0,0,0
+129,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (129).jpg,correct,0,0,0,0,0,0,0
+130,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (130).jpg,correct,0,0,0,0,0,0,0
+131,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (131).jpg,correct,0,0,0,0,0,0,0
+132,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (132).jpg,correct,0,0,0,0,0,0,0
+133,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (133).jpg,correct,0,0,0,0,0,0,0
+134,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (134).jpg,correct,0,0,0,0,0,0,0
+135,DATASET DYSGRAPHIA HANDWRITING copy/Low Potential Dysgraphia/LPD (135).jpg,correct,0,0,0,0,0,0,0
+136,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (1).jpg,incorrect,0,0,0,1,1,1,1
+137,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (2).jpg,incorrect,1,0,1,0,0,1,1
+138,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (3).jpg,incorrect,1,0,0,0,1,0,1
+139,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (4).jpg,incorrect,1,0,1,1,1,0,0
+140,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (5).jpg,incorrect,1,0,1,0,1,0,1
+141,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (6).jpg,incorrect,1,0,1,0,1,0,0
+142,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (7).jpg,incorrect,0,0,0,0,0,0,1
+143,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (8).jpg,incorrect,0,0,0,0,0,1,0
+144,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (9).jpg,incorrect,0,0,1,0,0,1,1
+145,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (10).jpg,incorrect,1,1,0,0,1,0,0
+146,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (11).jpg,incorrect,1,0,1,0,1,0,0
+147,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (12).jpg,incorrect,0,1,1,0,0,1,0
+148,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (13).jpg,incorrect,0,0,0,0,1,0,1
+149,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (14).jpg,incorrect,1,0,1,0,0,1,1
+150,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (15).jpg,incorrect,1,0,1,0,0,0,0
+151,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (16).jpg,incorrect,0,1,0,1,0,0,1
+152,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (17).jpg,incorrect,0,1,0,1,0,0,1
+153,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (18).jpg,incorrect,1,0,0,1,0,0,1
+154,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (19).jpg,incorrect,0,0,0,0,0,0,1
+155,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (20).jpg,incorrect,1,0,1,0,1,0,1
+156,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (21).jpg,incorrect,1,0,0,1,1,0,0
+157,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (22).jpg,incorrect,1,0,0,0,0,0,1
+158,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (23).jpg,incorrect,1,0,0,0,0,0,0
+159,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (24).jpg,incorrect,1,0,1,1,0,0,0
+160,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (25).jpg,incorrect,0,0,0,1,0,1,1
+161,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (26).jpg,incorrect,1,1,1,0,0,1,1
+162,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (27).jpg,incorrect,1,0,0,0,1,1,1
+163,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (28).jpg,incorrect,1,0,0,1,1,0,1
+164,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (29).jpg,incorrect,1,0,1,0,1,0,1
+165,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (30).jpg,incorrect,0,1,0,1,1,1,1
+166,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (31).jpg,incorrect,1,0,0,0,0,0,0
+167,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (32).jpg,incorrect,1,0,1,0,0,0,1
+168,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (33).jpg,incorrect,1,0,0,0,0,1,0
+169,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (34).jpg,incorrect,0,0,0,1,0,0,1
+170,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (35).jpg,incorrect,1,0,1,1,1,0,1
+171,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (36).jpg,incorrect,1,0,1,0,0,0,1
+172,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (37).jpg,incorrect,1,0,0,0,0,0,0
+173,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (38).jpg,incorrect,0,0,1,1,0,0,1
+174,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (39).jpg,incorrect,1,0,1,0,0,0,1
+175,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (40).jpg,incorrect,1,0,0,0,0,1,1
+176,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (41).jpg,incorrect,1,0,0,0,1,1,1
+177,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (42).jpg,incorrect,0,0,1,1,0,1,1
+178,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (43).jpg,incorrect,0,1,0,1,1,0,1
+179,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (44).jpg,incorrect,1,0,0,0,0,1,1
+180,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (45).jpg,incorrect,1,0,0,0,1,1,1
+181,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (46).jpg,incorrect,0,1,0,1,1,0,1
+182,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (47).jpg,incorrect,0,1,0,1,1,1,1
+183,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (48).jpg,incorrect,0,0,0,1,1,0,1
+184,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (49).jpg,incorrect,0,0,0,0,0,1,1
+185,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (50).jpg,incorrect,0,0,1,0,0,0,1
+186,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (51).jpg,incorrect,0,0,1,0,0,0,0
+187,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (52).jpg,incorrect,0,0,1,0,0,1,0
+188,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (53).jpg,incorrect,0,0,1,0,0,1,0
+189,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (54).jpg,incorrect,1,0,1,0,0,0,1
+190,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (55).jpg,incorrect,1,0,0,0,1,0,0
+191,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (56).jpg,incorrect,1,0,1,0,0,0,0
+192,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (57).jpg,incorrect,1,0,1,0,0,0,0
+193,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (58).jpg,incorrect,0,0,1,0,1,0,0
+194,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (59).jpg,incorrect,0,0,1,0,0,0,0
+195,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (60).jpg,incorrect,1,0,1,0,0,0,1
+196,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (61).jpg,incorrect,1,1,0,1,1,0,1
+197,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (62).jpg,incorrect,0,0,0,1,1,0,1
+198,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (63).jpg,incorrect,1,0,1,0,1,0,1
+199,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (64).jpg,incorrect,0,0,0,1,1,0,0
+200,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (65).jpg,incorrect,0,0,1,0,0,0,1
+201,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (66).jpg,incorrect,0,1,1,0,0,0,1
+202,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (67).jpg,incorrect,0,1,1,0,1,0,1
+203,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (68).jpg,incorrect,0,0,1,0,0,0,1
+204,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (69).jpg,incorrect,0,0,1,1,1,1,1
+205,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (70).jpg,incorrect,0,0,0,1,0,0,1
+206,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (71).jpg,incorrect,1,0,0,0,0,1,1
+207,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (72).jpg,incorrect,1,0,1,0,1,0,1
+208,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (73).jpg,incorrect,0,1,1,0,0,1,0
+209,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (74).jpg,incorrect,0,0,1,0,1,1,0
+210,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (75).jpg,incorrect,0,0,1,1,1,1,1
+211,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (76).jpg,incorrect,0,0,0,0,0,1,1
+212,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (77).jpg,incorrect,1,0,0,0,0,0,0
+213,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (78).jpg,incorrect,1,0,1,0,0,0,0
+214,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (79).jpg,incorrect,0,0,0,0,1,1,1
+215,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (80).jpg,incorrect,0,0,0,1,1,0,1
+216,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (81).jpg,incorrect,0,1,0,1,1,0,1
+217,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (82).jpg,incorrect,0,0,0,0,0,0,1
+218,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (83).jpg,incorrect,0,1,1,0,0,0,1
+219,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (84).jpg,incorrect,1,0,1,0,0,0,1
+220,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (85).jpg,incorrect,1,0,1,0,1,1,1
+221,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (86).jpg,incorrect,1,0,1,0,0,0,1
+222,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (87).jpg,incorrect,1,0,0,1,0,0,1
+223,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (88).jpg,incorrect,0,1,0,1,0,0,1
+224,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (89).jpg,incorrect,0,0,0,0,0,1,1
+225,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (90).jpg,incorrect,0,0,1,0,0,1,0
+226,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (91).jpg,incorrect,1,0,0,0,0,1,1
+227,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (92).jpg,incorrect,1,0,0,0,0,1,1
+228,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (93).jpg,incorrect,1,0,0,1,0,0,1
+229,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (94).jpg,incorrect,1,0,1,0,0,1,0
+230,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (95).jpg,incorrect,1,0,1,0,0,1,1
+231,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (96).jpg,incorrect,1,0,1,0,1,1,1
+232,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (97).jpg,incorrect,0,0,0,0,0,1,0
+233,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (98).jpg,incorrect,1,0,1,0,0,1,1
+234,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (99).jpg,incorrect,1,0,1,0,1,0,1
+235,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (100).jpg,incorrect,0,1,0,0,0,1,0
+236,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (101).jpg,incorrect,0,1,0,0,0,1,1
+237,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (102).jpg,incorrect,0,0,1,0,0,1,1
+238,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (103).jpg,incorrect,1,0,0,1,0,0,1
+239,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (104).jpg,incorrect,1,0,1,0,0,0,1
+240,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (105).jpg,incorrect,1,0,0,1,0,0,1
+241,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (106).jpg,incorrect,1,0,0,1,0,0,0
+242,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (107).jpg,incorrect,1,0,0,0,1,0,0
+243,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (108).jpg,incorrect,1,0,0,1,0,0,1
+244,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (109).jpg,incorrect,0,0,0,0,0,1,0
+245,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (110).jpg,incorrect,0,0,0,1,0,1,1
+246,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (111).jpg,incorrect,1,0,0,0,0,1,1
+247,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (112).jpg,incorrect,0,0,0,1,0,0,1
+248,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (113).jpg,incorrect,1,0,0,0,1,0,1
+249,DATASET DYSGRAPHIA HANDWRITING copy/Potential Dysgraphia/PD (114).jpg,incorrect,1,0,1,1,1,0,1
