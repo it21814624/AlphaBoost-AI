@@ -1,0 +1,657 @@
+Correct_Word,Incorrect_Word,Error_Type,Letter_Count,Difficulty_Level
+friend,freind,Transpositions,6,3
+apple,appel,Transpositions,5,2
+knife,nife,Silent Letters,5,2
+know,no,Silent Letters,4,2
+butter,buter,Omission of Letters,6,3
+better,beter,Omission of Letters,6,3
+cup,cupp,Addition of Letters,3,1
+phone,fone,Letter-Phoneme Correspondence,5,2
+elephant,elefant,Letter-Phoneme Correspondence,8,4
+school,skool,Letter-Phoneme Correspondence,6,3
+talk,tark,Letter-Phoneme Correspondence,4,2
+climb,clime,Silent Letters,5,2
+thumb,thum,Silent Letters,5,2
+class,clas,Omission of Letters,5,2
+glass,glaass,Addition of Letters,5,2
+table,tble,Omission of Letters,5,2
+chair,chari,Transpositions,5,2
+ghost,gost,Silent Letters,5,2
+write,rite,Silent Letters,5,2
+swing,swiing,Addition of Letters,5,2
+bed,beed,Addition of Letters,3,1
+ship,sip,Letter-Phoneme Correspondence,4,2
+judge,juj,Letter-Phoneme Correspondence,5,2
+knight,nite,Silent Letters,6,3
+carrot,carot,Omission of Letters,6,3
+neighbor,neighobr,Transpositions,8,4
+session,seshun,Letter-Phoneme Correspondence,7,3
+ghost,gost,Silent Letters,5,2
+question,questtion,Addition of Letters,8,4
+cloud,cluod,Transpositions,5,2
+rabbit,rabit,Omission of Letters,6,3
+door,doro,Transpositions,4,2
+wrought,rout,Silent Letters,7,3
+computer,comptuer,Transpositions,8,4
+basket,baskte,Transpositions,6,3
+silver,silvver,Addition of Letters,6,3
+middle,midle,Omission of Letters,6,3
+pen,penn,Addition of Letters,3,1
+present,pressennt,Addition of Letters,7,3
+daughter,doter,Letter-Phoneme Correspondence,8,4
+tomorrow,tomorow,Omission of Letters,8,4
+bicycle,bicyclle,Addition of Letters,7,3
+green,gren,Omission of Letters,5,2
+flower,floewr,Transpositions,6,3
+book,bok,Omission of Letters,4,2
+for,forr,Addition of Letters,3,1
+action,akshun,Letter-Phoneme Correspondence,6,3
+purple,purpple,Addition of Letters,6,3
+honest,onest,Silent Letters,6,3
+train,trainn,Addition of Letters,5,2
+soon,son,Omission of Letters,4,2
+knock,nok,Silent Letters,5,2
+the,teh,Transpositions,3,1
+supper,super,Omission of Letters,6,3
+tomb,tom,Silent Letters,4,2
+red,redd,Addition of Letters,3,1
+shoe,soo,Letter-Phoneme Correspondence,4,2
+foreign,foren,Silent Letters,7,3
+teacher,teahcer,Transpositions,7,3
+pencil,pencial,Transpositions,6,3
+moon,mon,Omission of Letters,4,2
+rough,ruf,Letter-Phoneme Correspondence,5,2
+garden,garedn,Transpositions,6,3
+balloon,baloon,Omission of Letters,7,3
+home,homme,Addition of Letters,4,2
+captain,captainn,Addition of Letters,7,3
+photo,foto,Letter-Phoneme Correspondence,5,2
+wash,wosh,Letter-Phoneme Correspondence,4,2
+taught,tot,Letter-Phoneme Correspondence,6,3
+different,differente,Addition of Letters,9,4
+balm,bam,Silent Letters,4,2
+traffic,trafic,Omission of Letters,7,3
+chair,chairr,Addition of Letters,5,2
+fish,fshi,Transpositions,4,2
+night,nite,Letter-Phoneme Correspondence,5,2
+mouse,moesu,Transpositions,5,2
+yellow,yelolow,Transpositions,6,3
+sign,sine,Silent Letters,4,2
+desk,dessk,Addition of Letters,4,2
+table,talbe,Transpositions,5,2
+thought,thot,Letter-Phoneme Correspondence,7,3
+chalk,chak,Silent Letters,5,2
+bottle,botle,Omission of Letters,6,3
+friend,friennd,Addition of Letters,6,3
+cat,cta,Transpositions,3,1
+tree,tre,Omission of Letters,4,2
+knowledge,nolege,Silent Letters,9,4
+face,fcae,Transpositions,4,2
+door,doorr,Addition of Letters,4,2
+sink,sinck,Addition of Letters,4,2
+solemn,solem,Silent Letters,6,3
+happy,hapy,Omission of Letters,5,2
+laugh,laf,Letter-Phoneme Correspondence,5,2
+rainbow,rainboow,Addition of Letters,7,3
+blue,bleu,Transpositions,4,2
+build,bild,Omission of Letters,5,2
+rush,rosh,Letter-Phoneme Correspondence,4,2
+school,scohol,Transpositions,6,3
+what,wat,Letter-Phoneme Correspondence,4,2
+enough,enuf,Letter-Phoneme Correspondence,6,3
+jump,jmup,Transpositions,4,2
+sleep,slep,Omission of Letters,5,2
+fish,fissh,Addition of Letters,4,2
+wrath,rath,Silent Letters,5,2
+dress,derss,Transpositions,5,2
+autumn,autum,Silent Letters,6,3
+planet,palnet,Transpositions,6,3
+important,improtant,Transpositions,9,4
+edge,ej,Letter-Phoneme Correspondence,4,2
+ocean,oshun,Letter-Phoneme Correspondence,5,2
+weather,weatehr,Transpositions,7,3
+phone,fone,Letter-Phoneme Correspondence,5,2
+butter,buter,Omission of Letters,6,3
+which,wich,Letter-Phoneme Correspondence,5,2
+house,housse,Addition of Letters,5,2
+cup,cpu,Transpositions,3,1
+book,boko,Transpositions,4,2
+hour,our,Silent Letters,4,2
+brother,brothre,Transpositions,7,3
+water,watter,Addition of Letters,5,2
+debt,det,Silent Letters,4,2
+umbrella,umbbrella,Addition of Letters,8,4
+face,facce,Addition of Letters,4,2
+peel,pel,Omission of Letters,4,2
+knee,nee,Silent Letters,4,2
+on,onn,Addition of Letters,2,1
+kneel,neel,Silent Letters,5,2
+half,haf,Silent Letters,4,2
+catch,cach,Letter-Phoneme Correspondence,5,2
+kitten,kiten,Omission of Letters,6,3
+chemistry,kemistry,Letter-Phoneme Correspondence,9,4
+office,ofice,Omission of Letters,6,3
+bridge,brij,Letter-Phoneme Correspondence,6,3
+sight,site,Letter-Phoneme Correspondence,5,2
+clock,clocK,Transpositions,5,2
+bad,badd,Addition of Letters,3,1
+pink,pnik,Transpositions,4,2
+right,rite,Letter-Phoneme Correspondence,5,2
+house,huose,Transpositions,5,2
+beetle,betle,Omission of Letters,6,3
+walk,wak,Silent Letters,4,2
+ladder,lader,Omission of Letters,6,3
+apple,appel,Transpositions,5,2
+when,wen,Letter-Phoneme Correspondence,4,2
+sheep,seep,Letter-Phoneme Correspondence,5,2
+car,cra,Transpositions,3,1
+butter,buttter,Addition of Letters,6,3
+shell,sel,Letter-Phoneme Correspondence,5,2
+shop,sop,Letter-Phoneme Correspondence,4,2
+race,rase,Letter-Phoneme Correspondence,4,2
+daughter,daughetr,Transpositions,8,4
+fudge,fuj,Letter-Phoneme Correspondence,5,2
+ball,balll,Addition of Letters,4,2
+stalk,stak,Silent Letters,5,2
+write,rite,Silent Letters,5,2
+we,wee,Addition of Letters,2,1
+hat,hta,Transpositions,3,1
+lamb,lam,Silent Letters,4,2
+judge,juj,Letter-Phoneme Correspondence,5,2
+apple,aple,Omission of Letters,5,2
+ball,blal,Transpositions,4,2
+island,iland,Silent Letters,6,3
+fight,fite,Letter-Phoneme Correspondence,5,2
+hospital,hospiatl,Transpositions,8,4
+green,greeen,Addition of Letters,5,2
+knuckle,nukle,Silent Letters,7,3
+bathroom,bathrom,Omission of Letters,8,4
+kitchen,kichen,Letter-Phoneme Correspondence,7,3
+hand,hadn,Transpositions,4,2
+puppet,pupit,Omission of Letters,6,3
+picture,picturre,Addition of Letters,7,3
+book,bookk,Addition of Letters,4,2
+knot,not,Silent Letters,4,2
+school,scool,Omission of Letters,6,3
+white,wite,Letter-Phoneme Correspondence,5,2
+blue,bluee,Addition of Letters,4,2
+kitchen,kitcehn,Transpositions,7,3
+dog,dgo,Transpositions,3,1
+light,lite,Letter-Phoneme Correspondence,5,2
+salmon,samon,Silent Letters,6,3
+rain,rane,Letter-Phoneme Correspondence,4,2
+physics,fiziks,Letter-Phoneme Correspondence,7,3
+monkey,monkeey,Addition of Letters,6,3
+shark,sharck,Addition of Letters,5,2
+condemn,condem,Silent Letters,7,3
+little,litle,Omission of Letters,6,3
+milk,mikl,Transpositions,4,2
+right,rite,Silent Letters,5,2
+ship,sip,Letter-Phoneme Correspondence,4,2
+food,fodo,Transpositions,4,2
+orange,orangge,Addition of Letters,6,3
+at,att,Addition of Letters,2,1
+money,moeny,Transpositions,5,2
+ticket,tickte,Transpositions,6,3
+rhythm,rithm,Silent Letters,6,3
+kitchen,kitchhen,Addition of Letters,7,3
+pencil,pencill,Addition of Letters,6,3
+prince,prins,Letter-Phoneme Correspondence,6,3
+summer,sumer,Omission of Letters,6,3
+wrong,rong,Silent Letters,5,2
+hat,hatt,Addition of Letters,3,1
+and,andd,Addition of Letters,3,1
+three,thre,Omission of Letters,5,2
+cake,caek,Transpositions,4,2
+holiday,holliday,Addition of Letters,7,3
+nice,nise,Letter-Phoneme Correspondence,4,2
+wreck,reck,Silent Letters,5,2
+chocolate,choclotae,Transpositions,9,4
+tree,tere,Transpositions,4,2
+bounce,bouns,Letter-Phoneme Correspondence,6,3
+talk,tak,Silent Letters,4,2
+run,rnu,Transpositions,3,1
+safari,safary,Letter-Phoneme Correspondence,6,3
+cook,cok,Omission of Letters,4,2
+puppy,pupy,Omission of Letters,5,2
+hammer,hamer,Omission of Letters,6,3
+school,schooll,Addition of Letters,6,3
+ocean,oshen,Letter-Phoneme Correspondence,5,2
+picture,pictuer,Transpositions,7,3
+paper,paepr,Transpositions,5,2
+knack,nak,Silent Letters,5,2
+wrap,rap,Silent Letters,4,2
+coffee,cofee,Omission of Letters,6,3
+vegetable,vegteabel,Transpositions,9,4
+book,bok,Omission of Letters,4,2
+player,playar,Letter-Phoneme Correspondence,6,3
+dragon,dragno,Transpositions,6,3
+wrestle,restle,Silent Letters,7,3
+match,mach,Letter-Phoneme Correspondence,5,2
+thumb,thum,Silent Letters,5,2
+chicken,chickenn,Addition of Letters,7,3
+not,nto,Transpositions,3,1
+food,foood,Addition of Letters,4,2
+plumb,plum,Silent Letters,5,2
+comb,com,Silent Letters,4,2
+doctor,docter,Letter-Phoneme Correspondence,6,3
+mirror,miror,Omission of Letters,6,3
+window,windwo,Transpositions,6,3
+wrist,rist,Silent Letters,5,2
+blanket,blankter,Transpositions,7,3
+soccer,socer,Omission of Letters,6,3
+voice,voys,Letter-Phoneme Correspondence,5,2
+moon,moun,Letter-Phoneme Correspondence,4,2
+garden,gardenn,Addition of Letters,6,3
+rice,rise,Letter-Phoneme Correspondence,4,2
+penguin,pengiun,Transpositions,7,3
+daughter,daughtter,Addition of Letters,8,4
+queen,quen,Omission of Letters,5,2
+where,wer,Letter-Phoneme Correspondence,5,2
+bread,braed,Transpositions,5,2
+chemistry,kemistry,Letter-Phoneme Correspondence,9,4
+he,hee,Addition of Letters,2,1
+knit,nit,Silent Letters,4,2
+weather,weatther,Addition of Letters,7,3
+cake,cakke,Addition of Letters,4,2
+monkey,monkye,Transpositions,6,3
+time,tiem,Transpositions,4,2
+christmas,Crismas,Silent Letters,9,4
+ancient,anshent,Letter-Phoneme Correspondence,7,3
+sheep,sheepp,Addition of Letters,5,2
+elephant,elephnat,Transpositions,8,4
+calf,caf,Silent Letters,4,2
+candy,canddy,Addition of Letters,5,2
+knife,nife,Silent Letters,5,2
+while,wile,Letter-Phoneme Correspondence,5,2
+philosophy,filosofy,Letter-Phoneme Correspondence,10,4
+rain,rane,Letter-Phoneme Correspondence,4,2
+safari,safary,Letter-Phoneme Correspondence,6,3
+and,adn,Transpositions,3,1
+orphan,orfan,Letter-Phoneme Correspondence,6,3
+button,buton,Omission of Letters,6,3
+honey,honny,Addition of Letters,5,2
+color,culor,Letter-Phoneme Correspondence,5,2
+student,stuednt,Transpositions,7,3
+special,speshul,Letter-Phoneme Correspondence,7,3
+dark,darrk,Addition of Letters,4,2
+paper,papper,Addition of Letters,5,2
+water,waetr,Transpositions,5,2
+keep,kep,Omission of Letters,4,2
+dance,dans,Letter-Phoneme Correspondence,5,2
+campaign,campane,Silent Letters,8,4
+by,byy,Addition of Letters,2,1
+might,mite,Letter-Phoneme Correspondence,5,2
+holiday,holidya,Transpositions,7,3
+hymn,hym,Silent Letters,4,2
+education,edcuation,Transpositions,9,4
+game,gaem,Transpositions,4,2
+champion,champyon,Letter-Phoneme Correspondence,8,4
+telephone,telefone,Letter-Phoneme Correspondence,9,4
+knife,nife,Letter-Phoneme Correspondence,5,2
+me,mee,Addition of Letters,2,1
+train,traan,Letter-Phoneme Correspondence,5,2
+grocery,grosery,Letter-Phoneme Correspondence,7,3
+deep,dep,Omission of Letters,4,2
+beetle,betle,Omission of Letters,6,3
+toy,toie,Addition of Letters,3,1
+ribbon,ribon,Omission of Letters,6,3
+free,fre,Omission of Letters,4,2
+calm,cam,Silent Letters,4,2
+doctor,docter,Letter-Phoneme Correspondence,6,3
+pumpkin,pumpikn,Transpositions,7,3
+color,culor,Letter-Phoneme Correspondence,5,2
+soften,sofen,Silent Letters,6,3
+machine,masheen,Letter-Phoneme Correspondence,7,3
+better,beter,Omission of Letters,6,3
+it,itt,Addition of Letters,2,1
+almond,amond,Silent Letters,6,3
+fence,fens,Letter-Phoneme Correspondence,5,2
+love,lvoe,Transpositions,4,2
+atmosphere,atmosfere,Letter-Phoneme Correspondence,10,4
+floor,flor,Omission of Letters,5,2
+glass,glas,Omission of Letters,5,2
+spring,sprign,Transpositions,6,3
+chocolate,chocoolate,Addition of Letters,9,4
+wheat,weat,Silent Letters,5,2
+train,traan,Letter-Phoneme Correspondence,5,2
+badge,baj,Letter-Phoneme Correspondence,5,2
+hospital,hospitall,Addition of Letters,8,4
+player,playar,Letter-Phoneme Correspondence,6,3
+grocery,grosery,Letter-Phoneme Correspondence,7,3
+cotton,coton,Omission of Letters,6,3
+table,tabble,Addition of Letters,5,2
+hasten,hasen,Silent Letters,6,3
+yellow,yelow,Omission of Letters,6,3
+glisten,glisen,Silent Letters,7,3
+love,lovve,Addition of Letters,4,2
+wren,ren,Silent Letters,4,2
+phantom,fantom,Letter-Phoneme Correspondence,7,3
+dolphin,dolfin,Letter-Phoneme Correspondence,7,3
+run,runn,Addition of Letters,3,1
+do,doo,Addition of Letters,2,1
+sheep,shep,Omission of Letters,5,2
+choice,choys,Letter-Phoneme Correspondence,6,3
+bicycle,bicylce,Transpositions,7,3
+white,wite,Omission of Letters,5,2
+palm,pam,Silent Letters,4,2
+thursday,thurdsay,Transpositions,8,4
+doctor,doctter,Addition of Letters,6,3
+big,bgi,Transpositions,3,1
+elephant,elefant,Letter-Phoneme Correspondence,8,4
+patient,pashent,Letter-Phoneme Correspondence,7,3
+bread,breadd,Addition of Letters,5,2
+station,stashun,Letter-Phoneme Correspondence,7,3
+jam,jamm,Addition of Letters,3,1
+hope,hoppe,Addition of Letters,4,2
+watch,wach,Letter-Phoneme Correspondence,5,2
+dinosaur,dinosuar,Transpositions,8,4
+furniture,furnniture,Addition of Letters,9,4
+cold,clod,Transpositions,4,2
+bright,brite,Letter-Phoneme Correspondence,6,3
+beach,beahc,Transpositions,5,2
+knight,nite,Letter-Phoneme Correspondence,6,3
+honor,onor,Silent Letters,5,2
+patch,pach,Letter-Phoneme Correspondence,5,2
+doctor,doctter,Addition of Letters,6,3
+happy,happpy,Addition of Letters,5,2
+my,myy,Addition of Letters,2,1
+fix,fixx,Addition of Letters,3,1
+honor,onor,Silent Letters,5,2
+build,bild,Omission of Letters,5,2
+look,lok,Omission of Letters,4,2
+wrinkle,rinkle,Silent Letters,7,3
+tool,tol,Omission of Letters,4,2
+beach,beacch,Addition of Letters,5,2
+candy,canyd,Transpositions,5,2
+captain,captian,Transpositions,7,3
+pharmacy,farmacy,Letter-Phoneme Correspondence,8,4
+bus,bsu,Transpositions,3,1
+rhyme,rime,Silent Letters,5,2
+chicken,chikecn,Transpositions,7,3
+window,windoww,Addition of Letters,6,3
+fox,fxo,Transpositions,3,1
+took,tok,Omission of Letters,4,2
+folk,fok,Silent Letters,4,2
+boot,bot,Omission of Letters,4,2
+tomorrow,tomrorow,Transpositions,8,4
+alphabet,alfabet,Letter-Phoneme Correspondence,8,4
+sphere,sfere,Letter-Phoneme Correspondence,6,3
+crumb,crum,Silent Letters,5,2
+mood,mod,Omission of Letters,4,2
+shine,sine,Letter-Phoneme Correspondence,5,2
+green,grene,Transpositions,5,2
+why,wy,Letter-Phoneme Correspondence,3,1
+dinosaur,dinosauur,Addition of Letters,8,4
+yellow,yelllow,Addition of Letters,6,3
+prophet,profet,Letter-Phoneme Correspondence,7,3
+vegetable,vegetabble,Addition of Letters,9,4
+know,no,Silent Letters,4,2
+hand,handd,Addition of Letters,4,2
+mountain,mountan,Omission of Letters,8,4
+funny,funy,Omission of Letters,5,2
+hair,hare,Letter-Phoneme Correspondence,4,2
+wrench,rench,Silent Letters,6,3
+go,goo,Addition of Letters,2,1
+favorite,favoriet,Transpositions,8,4
+ship,shiip,Addition of Letters,4,2
+time,timme,Addition of Letters,4,2
+fish,fis,Letter-Phoneme Correspondence,4,2
+brother,brotheer,Addition of Letters,7,3
+top,tpo,Transpositions,3,1
+wrap,rap,Silent Letters,4,2
+fence,sense,Letter-Phoneme Correspondence,5,2
+neighbor,neighbbor,Addition of Letters,8,4
+chicken,chickenn,Addition of Letters,7,3
+top,topp,Addition of Letters,3,1
+nation,nashun,Letter-Phoneme Correspondence,6,3
+sign,signn,Addition of Letters,4,2
+honey,honny,Addition of Letters,5,2
+tooth,toth,Omission of Letters,5,2
+sit,sitt,Addition of Letters,3,1
+weed,wed,Omission of Letters,4,2
+plant,palnt,Transpositions,5,2
+hair,hare,Letter-Phoneme Correspondence,4,2
+root,rot,Omission of Letters,4,2
+sun,sunn,Addition of Letters,3,1
+debris,debri,Silent Letters,6,3
+motion,moshun,Letter-Phoneme Correspondence,6,3
+is,iss,Addition of Letters,2,1
+moisten,moisen,Silent Letters,7,3
+assign,asine,Silent Letters,6,3
+rain,rane,Letter-Phoneme Correspondence,4,2
+dog,dogg,Addition of Letters,3,1
+country,countyr,Transpositions,7,3
+blood,blod,Omission of Letters,5,2
+but,btu,Transpositions,3,1
+witch,wich,Letter-Phoneme Correspondence,5,2
+cipher,sifer,Letter-Phoneme Correspondence,6,3
+christening,crisening,Silent Letters,11,4
+vegetable,vegteabel,Transpositions,9,4
+train,traan,Letter-Phoneme Correspondence,5,2
+student,studdent,Addition of Letters,7,3
+safari,safary,Letter-Phoneme Correspondence,6,3
+wrapper,raper,Silent Letters,7,3
+hair,hare,Letter-Phoneme Correspondence,4,2
+wheel,whel,Omission of Letters,5,2
+paper,papper,Addition of Letters,5,2
+fortune,fortun,Omission of Letters,7,3
+fortune,fortun,Omission of Letters,7,3
+ribbon,ribon,Omission of Letters,6,3
+mountain,mountan,Omission of Letters,8,4
+chair,chiar,Transpositions,5,2
+shoot,shot,Omission of Letters,5,2
+sandwich,sandwwich,Addition of Letters,8,4
+numb,num,Silent Letters,4,2
+purple,pruple,Transpositions,6,3
+play,plya,Transpositions,4,2
+wreath,reath,Silent Letters,6,3
+exercise,exerccise,Addition of Letters,8,4
+column,colum,Silent Letters,6,3
+shark,sharck,Addition of Letters,5,2
+fence,sense,Letter-Phoneme Correspondence,5,2
+juice,joos,Letter-Phoneme Correspondence,5,2
+hope,hoppe,Addition of Letters,4,2
+no,noo,Addition of Letters,2,1
+ship,shiip,Addition of Letters,4,2
+mountain,mountan,Omission of Letters,8,4
+good,god,Omission of Letters,4,2
+sunny,suny,Omission of Letters,5,2
+in,inn,Addition of Letters,2,1
+fortune,fortun,Omission of Letters,7,3
+doctor,doctter,Addition of Letters,6,3
+mountain,mountan,Omission of Letters,8,4
+mountain,mountan,Omission of Letters,8,4
+hair,hare,Letter-Phoneme Correspondence,4,2
+doctor,doctter,Addition of Letters,6,3
+mountain,mountan,Omission of Letters,8,4
+fortune,fortun,Omission of Letters,7,3
+mountain,mountan,Omission of Letters,8,4
+fortune,fortun,Omission of Letters,7,3
+chair,chari,Transpositions,5,2
+friend,freind,Transpositions,6,3
+apple,appel,Transpositions,5,2
+light,ligt,Transpositions,5,2
+bear,baer,Transpositions,4,1
+cats,ctas,Transpositions,4,1
+ship,shpi,Transpositions,4,1
+slip,silp,Transpositions,4,1
+trip,tirp,Transpositions,4,1
+best,bets,Transpositions,4,1
+dark,drak,Transpositions,4,1
+step,setp,Transpositions,4,1
+hand,hadn,Transpositions,4,1
+spot,sotp,Transpositions,4,1
+note,ntoe,Transpositions,4,1
+name,naem,Transpositions,4,1
+case,caes,Transpositions,4,1
+face,fcae,Transpositions,4,1
+cold,clod,Transpositions,4,1
+blue,bleu,Transpositions,4,1
+save,saev,Transpositions,4,1
+frog,forg,Transpositions,4,1
+swim,siwm,Transpositions,4,1
+phone,fone,Letter-Phoneme Correspondence,5,2
+enough,enuf,Letter-Phoneme Correspondence,6,3
+rough,ruf,Letter-Phoneme Correspondence,5,2
+tough,tuf,Letter-Phoneme Correspondence,5,2
+laugh,laf,Letter-Phoneme Correspondence,5,2
+cough,cof,Letter-Phoneme Correspondence,5,2
+photo,foto,Letter-Phoneme Correspondence,5,2
+physics,fizics,Letter-Phoneme Correspondence,7,3
+elephant,elefant,Letter-Phoneme Correspondence,8,4
+graph,graf,Letter-Phoneme Correspondence,5,2
+pharmacy,farmacy,Letter-Phoneme Correspondence,8,4
+phase,faze,Letter-Phoneme Correspondence,5,2
+phantom,fantom,Letter-Phoneme Correspondence,7,3
+spheres,fere,Letter-Phoneme Correspondence,7,3
+nephew,nevew,Letter-Phoneme Correspondence,6,3
+prophet,profet,Letter-Phoneme Correspondence,7,3
+trophy,trofy,Letter-Phoneme Correspondence,6,3
+triumph,triumf,Letter-Phoneme Correspondence,7,3
+alphabet,alfabet,Letter-Phoneme Correspondence,8,4
+dolphin,dolfin,Letter-Phoneme Correspondence,7,3
+orphan,orfan,Letter-Phoneme Correspondence,6,3
+paragraph,paragraf,Letter-Phoneme Correspondence,9,4
+philosophy,filosofy,Letter-Phoneme Correspondence,10,4
+telephone,telefone,Letter-Phoneme Correspondence,9,4
+symphony,simfony,Letter-Phoneme Correspondence,9,4
+saxophone,saxafone,Letter-Phoneme Correspondence,9,4
+xylophone,zylofone,Letter-Phoneme Correspondence,9,4
+ocean,oshen,Letter-Phoneme Correspondence,5,2
+sure,shur,Letter-Phoneme Correspondence,4,2
+machine,masheen,Letter-Phoneme Correspondence,6,3
+special,speshul,Letter-Phoneme Correspondence,7,3
+station,stashun,Letter-Phoneme Correspondence,7,3
+nation,nashun,Letter-Phoneme Correspondence,6,3
+patient,pashent,Letter-Phoneme Correspondence,7,3
+gap,gapp,Addition of Letters,3,1
+lip,lipp,Addition of Letters,3,1
+dip,dipp,Addition of Letters,3,1
+sip,sipp,Addition of Letters,3,1
+tip,tipp,Addition of Letters,3,1
+hip,hipp,Addition of Letters,3,1
+rip,ripp,Addition of Letters,3,1
+zip,zipp,Addition of Letters,3,1
+sun,sunn,Addition of Letters,3,1
+run,runn,Addition of Letters,3,1
+fun,funn,Addition of Letters,3,1
+gun,gunn,Addition of Letters,3,1
+still,stil,Omission of Letters,5,2
+drill,dril,Omission of Letters,5,2
+spell,spel,Omission of Letters,5,2
+shell,shel,Omission of Letters,5,2
+bell,bel,Omission of Letters,4,2
+tell,tel,Omission of Letters,4,2
+sell,sel,Omission of Letters,4,2
+well,wel,Omission of Letters,4,2
+cell,cel,Omission of Letters,4,2
+dress,dres,Omission of Letters,5,2
+glass,glas,Omission of Letters,5,2
+class,clas,Omission of Letters,5,2
+grass,gras,Omission of Letters,5,2
+pass,pas,Omission of Letters,4,2
+miss,mis,Omission of Letters,4,2
+kiss,kis,Omission of Letters,4,2
+cross,cros,Omission of Letters,5,2
+boss,bos,Omission of Letters,4,2
+loss,los,Omission of Letters,4,2
+toss,tos,Omission of Letters,4,2
+buzz,buz,Omission of Letters,4,2
+fuzz,fuz,Omission of Letters,4,2
+jazz,jaz,Omission of Letters,4,2
+cliff,clif,Omission of Letters,5,2
+stuff,stuf,Omission of Letters,5,2
+off,of,Omission of Letters,3,2
+add,ad,Omission of Letters,3,1
+odd,od,Omission of Letters,3,1
+egg,eg,Omission of Letters,3,1
+moon,mon,Omission of Letters,4,2
+food,fod,Omission of Letters,4,2
+pool,pol,Omission of Letters,4,2
+cool,col,Omission of Letters,4,2
+look,lok,Omission of Letters,4,2
+foot,fot,Omission of Letters,4,2
+good,god,Omission of Letters,4,2
+boot,bot,Omission of Letters,4,2
+tool,tol,Omission of Letters,4,2
+ball,bal,Omission of Letters,4,2
+call,cal,Omission of Letters,4,2
+fall,fal,Omission of Letters,4,2
+running,runing,Omission of Letters,7,3
+swimming,swiming,Omission of Letters,8,3
+beginning,begining,Omission of Letters,9,4
+winning,wining,Omission of Letters,7,4
+sitting,siting,Omission of Letters,7,3
+telling,teling,Omission of Letters,7,3
+school,schol,Omission of Letters,6,4
+book,bok,Omission of Letters,4,2
+spoon,spon,Omission of Letters,5,2
+knife,nife,Silent Letters,5,2
+know,no,Silent Letters,4,2
+knee,nee,Silent Letters,4,2
+night,nite,Silent Letters,5,2
+knot,not,Silent Letters,4,2
+writer,rite,Silent Letters,5,2
+wrong,rong,Silent Letters,5,2
+wrap,rap,Silent Letters,4,2
+wreck,reck,Silent Letters,5,2
+wrist,rist,Silent Letters,5,2
+knack,nack,Silent Letters,5,2
+ghetto,getto,Silent Letters,6,2
+honor,onor,Silent Letters,5,2
+hour,our,Silent Letters,4,2
+honest,onest,Silent Letters,6,3
+heir,ir,Silent Letters,4,2
+exhaust,exaust,Silent Letters,7,3
+rhythm,rythm,Silent Letters,6,2
+rhyme,ryme,Silent Letters,5,2
+psychology,psycology,Silent Letters,10,3
+psalm,salm,Silent Letters,5,2
+pseudonym,sudonym,Silent Letters,9,3
+psychiatry,sychiatry,Silent Letters,10,3
+receipt,receit,Silent Letters,7,2
+pneumonia,neumonia,Silent Letters,9,3
+mnemonic,nemonic,Silent Letters,8,2
+climb,clim,Silent Letters,5,2
+comb,com,Silent Letters,4,2
+lamb,lam,Silent Letters,4,2
+tomb,tom,Silent Letters,4,2
+womb,wom,Silent Letters,4,2
+bomb,bom,Silent Letters,4,2
+crumb,crum,Silent Letters,5,2
+limb,lim,Silent Letters,4,2
+ghost,gost,Silent Letters,5,2
+ghastly,gastly,Silent Letters,7,2
+salmon,samon,Silent Letters,6,2
+talk,tak,Silent Letters,4,2
+walk,wak,Silent Letters,4,2
+chalk,chak,Silent Letters,5,2
+stalk,stak,Silent Letters,5,2
+folk,fok,Silent Letters,4,2
+yolk,yok,Silent Letters,4,2
+doubt,dout,Silent Letters,5,2
+debt,det,Silent Letters,4,2
+subtle,sutle,Silent Letters,6,3
+plumber,plumer,Silent Letters,7,2
+numb,num,Silent Letters,4,2
+thumb,thum,Silent Letters,5,2
+castle,casle,Silent Letters,6,2
+whistle,wistle,Silent Letters,7,2
+thistle,thisle,Silent Letters,7,2
+bristle,brisle,Silent Letters,7,2
+knead,need,Silent Letters,5,2
+knight,nite,Silent Letters,6,2
+knock,nock,Silent Letters,5,2
+knuckle,nuckle,Silent Letters,6,2
+knit,nit,Silent Letters,4,2
+knob,nob,Silent Letters,4,2
+gnat,nat,Silent Letters,4,2
+gnaw,naw,Silent Letters,4,2
+sign,sine,Silent Letters,4,2
+design,desine,Silent Letters,6,3
+foreign,foren,Silent Letters,7,3
+campaign,campain,Silent Letters,8,3
+resign,resine,Silent Letters,6,3
+assign,asine,Silent Letters,6,3
+align,aline,Silent Letters,5,3
